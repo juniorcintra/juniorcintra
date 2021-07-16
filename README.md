@@ -9,7 +9,7 @@
       - E-mail: junior.developer@outlook.com.br, 
       - WhatsApp: [<img alt="WhatsApp" width="20" src="https://www.convertte.com.br/cvtt/wp-content/themes/cvtt_v3/assets/gerador-link-new/images/wpp-logo.svg"/> +55 24 98158-4658](https://api.whatsapp.com/send?phone=5524981584658&text=Ol%C3%A1%20Junior%2C%20vim%20do%20seu%20Github)
       - Instagram: [<img alt="Instagram" width="20" src="https://www.instagram.com/static/images/ico/apple-touch-icon-120x120-precomposed.png/8a5bd3f267b1.png"/> @_juniorcintra](https://www.instagram.com/_juniorcintra/).
-      - Youtube: [DevFast](https://www.youtube.com/channel/UCy9DdDXjlk_YLKG_r3ViXOg)
+      - Youtube: [<img width="20" height="20" src="https://www.gstatic.com/youtube/img/creator/favicon/favicon_144.png"/> DevFast](https://www.youtube.com/channel/UCy9DdDXjlk_YLKG_r3ViXOg)
       - Linkedin: [<img alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/sergio-cintra-developer/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love programming and that's out of control in my routine.
