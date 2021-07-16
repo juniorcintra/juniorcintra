@@ -10,6 +10,7 @@
       - WhatsApp: +55 24 98158-4658.
       - Instagram: [@_juniorcintra](https://www.instagram.com/_juniorcintra/).
       - Youtube: [DevFast](https://www.youtube.com/channel/UCy9DdDXjlk_YLKG_r3ViXOg)
+      - [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/sergio-cintra-developer/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love programming and that's out of control in my routine.
 
