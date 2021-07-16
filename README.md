@@ -8,7 +8,9 @@
 - 📫 How to reach me: 
       - E-mail: junior.developer@outlook.com.br, 
       - WhatsApp: +55 24 98158-4658.
-      - Instagram: @_juniorcintra.
-      - Youtube: https://www.youtube.com/channel/UCy9DdDXjlk_YLKG_r3ViXOg
+      - Instagram: [@_juniorcintra](https://www.instagram.com/_juniorcintra/).
+      - Youtube: [DevFast](https://www.youtube.com/channel/UCy9DdDXjlk_YLKG_r3ViXOg)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love programming and that's out of control in my routine.
+
+<img src="https://github-readme-stats.vercel.app/api?username=juniorcintra&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
