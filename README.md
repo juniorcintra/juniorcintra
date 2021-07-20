@@ -1,6 +1,6 @@
 ### Hi there, I'm Junior Cintra. 👋
 
-- 🔭 I’m currently working on mey app of Formula1 called DriverInF1.
+- 🔭 I’m currently working on my app of Formula1 called DriverInF1.
 - 🌱 I’m currently learning React Native and React JS
 - 👯 I’m looking to collaborate on Youtube with my personal project called DevFast.
 - 🤔 I’m looking for help with some React Native Dev's.
