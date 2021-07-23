@@ -6,7 +6,6 @@
 
 Hi, I'm Junior Cintra. Web development enthusiast and I'm looking for expertise in the frontend area. In addition to the courses, I also manage an altruistic project called DevFast where I help those interested in the area to go a complete way to become frontend developers like me, with that, I'm learning day after day, answering questions and helping with participating studies.
 
-
 If you want to interact with me, get in touch with Linkedin, Instagram or WhatsApp below.
 
 <a href="https://www.linkedin.com/in/sergio-cintra-developer/" target="_blank">
@@ -17,7 +16,9 @@ If you want to interact with me, get in touch with Linkedin, Instagram or WhatsA
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <br />
+<a href="https://api.whatsapp.com/send?phone=5524981584658&text=Ol%C3%A1.%20venho%20do%20github.%20Gostaria%20de%20falar%20com%20voc%C3%AA!" target="_blank">
 :calling: (024) 98158-4658
+</a>
 
 
 <hr />
