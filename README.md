@@ -1,34 +1,60 @@
-### Hi there, I'm Junior Cintra. 👋
+- 👋 Hi, I’m @JuniorCintra
+- 👀 I'm interested in evolving professionally as a developer and sharing knowledge with those who are part of my trajectory.
+- 🌱 I’m currently learning HTML, CSS, Javascript, ReactJS, NodeJs, React Native and ExpressJS.
 
-- 🔭 I’m currently working on my app of Formula1 called DriverInF1.
-- 🌱 I’m currently learning React Native and React JS
-- 👯 I’m looking to collaborate on Youtube with my personal project called DevFast.
-- 🤔 I’m looking for help with some React Native Dev's.
-- 💬 Ask me about ReactJS, React Native and any related stuff about JS.
-- 📫 How to reach me: 
-      - E-mail: junior.developer@outlook.com.br, 
-      - WhatsApp: [<img alt="WhatsApp" width="20" src="https://www.convertte.com.br/cvtt/wp-content/themes/cvtt_v3/assets/gerador-link-new/images/wpp-logo.svg"/> +55 24 98158-4658](https://api.whatsapp.com/send?phone=5524981584658&text=Ol%C3%A1%20Junior%2C%20vim%20do%20seu%20Github)
-      - Instagram: [<img alt="Instagram" width="20" src="https://www.instagram.com/static/images/ico/apple-touch-icon-120x120-precomposed.png/8a5bd3f267b1.png"/> @_juniorcintra](https://www.instagram.com/_juniorcintra/).
-      - Youtube: [<img width="20" height="20" src="https://www.gstatic.com/youtube/img/creator/favicon/favicon_144.png"/> DevFast](https://www.youtube.com/channel/UCy9DdDXjlk_YLKG_r3ViXOg)
-      - Linkedin: [<img alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/sergio-cintra-developer/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love programming and that's out of control in my routine.
+# Connect whith me:
 
-![Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorcintra&show_icons=true&theme=algolia)
+Hi, I'm Junior Cintra. Web development enthusiast and I'm looking for expertise in the frontend area. In addition to the courses, I also manage an altruistic project called DevFast where I help those interested in the area to go a complete way to become frontend developers like me, with that, I'm learning day after day, answering questions and helping with participating studies.
 
 
-### Languages and Tools
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+If you want to interact with me, get in touch with Linkedin, Instagram or WhatsApp below.
+
+<a href="https://www.linkedin.com/in/sergio-cintra-developer/" target="_blank">
+<img align="center" alt="junior-linkedin" height="30" widdth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+</a>
 <br />
+<a href="https://www.instagram.com/_juniorcintra/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 <br />
+:calling: (024) 98158-4658
+
+
+<hr />
+
+# My Skills
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorcintra)](https://github.com/juniorcintra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorcintra&show_icons=true&theme=radical)
+
+
+
+<hr />
+
+# Portfólio com freelancers
+
+Desenvolvimento de projeto freelancer para gerenciar produtos de uma loja de móveis em suas três lojas. O desenvolvimento web foi feito com ReactJS no frontend e AdonisJS no backend.
+
+http://ubamoveis.com.br
+
+Desenvolvimento de projeto freelancer para cadastro de arquitetos e oferta de desenvolvimento de ambientes planejados. O desenvolvimento web foi feito com ReactJS no frontend e AdonisJS no backend.
+
+http://casabelavistavr.com.br/2021/
+
+<hr />
+
+#### Que o futuro nos reserve dias bons!
