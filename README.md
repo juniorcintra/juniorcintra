@@ -2,7 +2,7 @@
 - 👀 I'm interested in evolving professionally as a developer and sharing knowledge with those who are part of my trajectory.
 - 🌱 I’m currently learning HTML, CSS, Javascript, ReactJS, NodeJs, React Native and ExpressJS.
 
-# Connect whith me:
+# Connect with me:
 
 Hi, I'm Junior Cintra. Web development enthusiast and I'm looking for expertise in the frontend area. In addition to the courses, I also manage an altruistic project called DevFast where I help those interested in the area to go a complete way to become frontend developers like me, with that, I'm learning day after day, answering questions and helping with participating studies.
 
