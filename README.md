@@ -44,6 +44,8 @@ If you want to interact with me, get in touch with Linkedin, Instagram or WhatsA
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorcintra&show_icons=true&theme=radical)
 
 
+ ![Snake animation](https://github.com/juniorcintra/juniorcintra/blob/output/github-contribution-grid-snake.svg)
+
 
 <hr />
 
