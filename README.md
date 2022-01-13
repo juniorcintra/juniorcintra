@@ -55,9 +55,6 @@ Desenvolvimento de projeto freelancer para gerenciar produtos de uma loja de mó
 
 http://ubamoveis.com.br
 
-Desenvolvimento de projeto freelancer para cadastro de arquitetos e oferta de desenvolvimento de ambientes planejados. O desenvolvimento web foi feito com ReactJS no frontend e AdonisJS no backend.
-
-http://casabelavistavr.com.br/2021/
 
 <hr />
 
