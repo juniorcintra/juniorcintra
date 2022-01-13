@@ -14,10 +14,10 @@ If you want to interact with me, get in touch with Linkedin, Instagram or WhatsA
 <a href="https://www.instagram.com/_juniorcintra/" target="_blank">
   <img  align="center"  src="https://image.flaticon.com/icons/png/512/174/174855.png" width='40' style="max-width:100%;"/>
 </a>
-<a href="https://api.whatsapp.com/send?phone=5524981584658&text=Ol%C3%A1.%20venho%20do%20github.%20Gostaria%20de%20falar%20com%20voc%C3%AA!" target="_blank" >
+<a href="https://api.whatsapp.com/send?phone=5548999697551&text=Ol%C3%A1.%20venho%20do%20github.%20Gostaria%20de%20falar%20com%20voc%C3%AA!" target="_blank" >
   <img  align="center" src="https://image.flaticon.com/icons/png/512/220/220236.png" width='40' style="max-width:100%;"/> 
 </a>
-<a href="https://www.youtube.com/channel/UCy9DdDXjlk_YLKG_r3ViXOg/" target="_blank">
+<a href="https://www.youtube.com/channel/UCy9DdDXjlk_YLKG_r3ViXOg" target="_blank">
   <img  align="center" src="https://image.flaticon.com/icons/png/512/174/174883.png" width='40' style="max-width:100%;"/>
 </a>
 
@@ -31,6 +31,7 @@ If you want to interact with me, get in touch with Linkedin, Instagram or WhatsA
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" widtf="50" style="max-width:100%;margin: 0 2px;"/></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
