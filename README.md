@@ -9,16 +9,16 @@ Hi, I'm Junior Cintra. Web development enthusiast and I'm looking for expertise 
 If you want to interact with me, get in touch with Linkedin, Instagram or WhatsApp below.
 
 <a href="https://www.linkedin.com/in/sergio-cintra-developer/" target="_blank">
-  <img align="center" alt="junior-linkedin" width="40" src="https://image.flaticon.com/icons/png/512/124/124011.png" style="max-width:100%;">
+  <p>Linkedin</p>
 </a>
 <a href="https://www.instagram.com/_juniorcintra/" target="_blank">
-  <img  align="center"  src="https://image.flaticon.com/icons/png/512/174/174855.png" width='40' style="max-width:100%;"/>
+  <p>Instagram</p>
 </a>
 <a href="https://api.whatsapp.com/send?phone=5548999697551&text=Ol%C3%A1.%20venho%20do%20github.%20Gostaria%20de%20falar%20com%20voc%C3%AA!" target="_blank" >
-  <img  align="center" src="https://image.flaticon.com/icons/png/512/220/220236.png" width='40' style="max-width:100%;"/> 
+  <p>WhatsApp</p>
 </a>
 <a href="https://www.youtube.com/channel/UCy9DdDXjlk_YLKG_r3ViXOg" target="_blank">
-  <img  align="center" src="https://image.flaticon.com/icons/png/512/174/174883.png" width='40' style="max-width:100%;"/>
+  <p>Youtube</p>
 </a>
 
 
