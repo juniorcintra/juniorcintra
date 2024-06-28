@@ -1,6 +1,6 @@
 ## 👨‍💻 Sergio Paulo Vianna Cintra Junior
 
-### Desenvolvedor Full Stack com mais de 5 anos de experiência, atuando à frente de projetos nos seguimentos de financeiras, setor imobiliário, e-commerce, agências de publicidade, escola de idiomas, seguradoras entre outros. Atuei no desenvolvimento de novas aplicações utilizando tecnologias como PHP e Javascript, React Native, ReactJs e NextJS. Sempre busco ser uma pessoa descontraída, mas que equilibre com a seriedade e compromisso no trabalho.
+### Desenvolvedor Full Stack com mais de 5 anos de experiência, atuando à frente de projetos nos seguimentos de financeiras, setor imobiliário, e-commerce, agências de publicidade, escola de idiomas, seguradoras entre outros. Atuei no desenvolvimento de novas aplicações utilizando tecnologias como PHP, Javascript, Typescript, React Native, ReactJs e NextJS. Sempre busco ser uma pessoa descontraída, mas que equilibre com a seriedade e compromisso no trabalho.
 
 ## 🛠️ Habilidades Técnicas
 
