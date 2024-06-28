@@ -25,7 +25,7 @@
   - Tecnologias Utilizadas: ReactJS, TailwindCSS, SCRUM, Typescript, ContextAPI
 
 - **Lingo For Me** - Desenvolvedor Front End Pleno - 03/2023 - 04/2024
-  - Descrição: Atuei em todo o refactor do App em React Native, refazendo todas as telas com atualizacoes de bibliotecas, melhorias e implementacao de Redux para gerenciamento global. Assim como tambem coordenei todo o refactor da plataforma web em React JS. Atuando com as mesmas estruturas por conta do compartilhamento de codigo entre React JS e React Native. Assim unificando certas logicas em comum para ambas as aplicacoes e tornando mais facil todo o processo de correcoes e melhorias futuras. Projetos bemdesafiadores por se tratar de uma empresa americana em funionamento global. Tendo que lidar com timezones diferentes pra tratativas de datas e horarios e traducoes tambem.
+  - Descrição: Atuei em todo o refactor do App em React Native, refazendo todas as telas com atualizacoes de bibliotecas, melhorias e implementacao de Redux para gerenciamento global. Assim como tambem coordenei todo o refactor da plataforma web em React JS. Atuando com as mesmas estruturas por conta do compartilhamento de codigo entre React JS e React Native. Assim unificando certas logicas em comum para ambas as aplicacoes e tornando mais facil todo o processo de correcoes e melhorias futuras. Projetos bem desafiadores por se tratar de uma empresa americana em funionamento global. Tendo que lidar com timezones diferentes pra tratativas de datas e horarios e traducoes tambem.
   - Tecnologias Utilizadas: ReactJS, Redux, React Native, SCRUM, Firebase, Styled Components, SASS
 
 - **Stoom** - Desenvolvedor Front End Pleno - 03/2022 - 07/2023
@@ -71,14 +71,14 @@
 ## 📫 Contato
 
 - **Email:** junior.cintra.developer@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/sergio-cintra-developer/
+- **LinkedIn:** [Sergio Cintra](https://www.linkedin.com/in/sergio-cintra-developer/)
 
 
 ## 🌱 Atualmente Aprendendo
 
-- VueJS, NuxtJS, Jest, Cypress.
+- VueJS, NuxtJS, Jest, Cypress, Framer Motion
 
-## 🎯 Objetivos de Carreira
+## 🎯 Objetivos gerais de Carreira
 
 Como Desenvolvedor Front End, meus principais objetivos de carreira são:
 
@@ -88,6 +88,11 @@ Como Desenvolvedor Front End, meus principais objetivos de carreira são:
 - **Manter-me Atualizado com as Novas Tecnologias:** Estar sempre atualizado com as últimas tendências e tecnologias no desenvolvimento front-end, como PWA, e novas APIs do navegador.
 - **Liderança e Mentoria:** Assumir papéis de liderança em projetos e ajudar a orientar novos desenvolvedores, compartilhando conhecimentos e boas práticas.
 - **Foco em Acessibilidade:** Priorizar a acessibilidade em todos os projetos para garantir que as aplicações sejam utilizáveis por pessoas com diferentes necessidades.
+
+## 🎯 Objetivos específicos de Carreira
+
+- Assumir a liderança de um projeto front-end importante até o final de 2024.
+- Aprender e implementar animações avançadas usando Framer Motion.
 
 Esses objetivos guiam meu desenvolvimento profissional e pessoal, ajudando-me a crescer continuamente na minha carreira como Desenvolvedor Front End.
 
