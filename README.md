@@ -61,7 +61,7 @@
 - **Pediu Peças (Meu TCC)**
   - Descrição: Um e-commerce de auto peças que visava aproximar o consumidor do lojista e/ou fornecedor de peças, utilizando geolocalização e sistema de classificação de usuários pra mostrar a loja mais próxima, com a melhor classificação e preço para o consumidor final.
   - Tecnologias Utilizadas: ReactJS, React Native, Redux, Styled Components, AdonisJS, MySQL
-  - Repositório: https://github.com/juniorcintra/ReactJS-TCC-PediuPecas-Dashboard - https://github.com/juniorcintra/ReactNative-TCC-PediuPecas
+  - Repositórios: https://github.com/juniorcintra/ReactJS-TCC-PediuPecas-Dashboard - https://github.com/juniorcintra/ReactNative-TCC-PediuPecas
 
 - **Mestre Agenda**
   - Descrição: Mestre Agenda é um sistema de agendamento feito para profissionais, oferecendo organização e eficiência para a gestão da sua agenda e o sucesso do seu negócio.
