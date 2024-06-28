@@ -4,7 +4,7 @@
 
 ## 🛠️ Habilidades Técnicas
 
-- **Linguagens de Programação:** PHP, JavaScript, C#, Python
+- **Linguagens de Programação:** PHP, JavaScript, Typescript, C#, Python
 - **Desenvolvimento Web:** HTML5, CSS3, ReactJs, React Native, Node.js, Express, Typescript, VueJS, NextJS, NuxtJS, TailwindCSS, Styled Components, Redux, ContextAPI, Cypress, Jest
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB, Firebase
 - **DevOps:** Docker, Jenkins, AWS, Azure
