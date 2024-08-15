@@ -5,10 +5,10 @@
 ## 🛠️ Habilidades Técnicas
 
 - **Linguagens de Programação:** PHP, JavaScript, Typescript, C#, Python
-- **Desenvolvimento Web:** HTML5, CSS3, ReactJs, React Native, Node.js, Express, Typescript, VueJS, NextJS, NuxtJS, TailwindCSS, Styled Components, Redux, ContextAPI, Cypress, Jest
-- **Banco de Dados:** MySQL, PostgreSQL, MongoDB, Firebase
+- **Desenvolvimento Web:** HTML5, CSS3, ReactJs, React Native, Node.js, Express, NestJS, Typescript, NextJS, TailwindCSS, Styled Components, Redux, ContextAPI, Cypress, Jest
+- **Banco de Dados:** MySQL, PostgreSQL, MongoDB, Firebase, Prisma
 - **DevOps:** Docker, Jenkins, AWS, Azure
-- **Ferramentas e Tecnologias:** Git, GitHub, Visual Studio Code, IntelliJ IDEA
+- **Ferramentas e Tecnologias:** Git, GitHub
 - **Metodologias Ágeis:** Scrum, Kanban
 
 ## 📚 Educação
@@ -76,23 +76,23 @@
 
 ## 🌱 Atualmente Aprendendo
 
-- VueJS, NuxtJS, Jest, Cypress, Framer Motion
+- NestJS e Prisma
 
 ## 🎯 Objetivos gerais de Carreira
 
 Como Desenvolvedor Front End, meus principais objetivos de carreira são:
 
 - **Desenvolver Interfaces de Usuário Inovadoras:** Criar interfaces de usuário modernas, intuitivas e acessíveis que proporcionem uma excelente experiência ao usuário.
-- **Aprimorar Habilidades em Frameworks e Bibliotecas:** Continuar aprimorando minhas habilidades em frameworks e bibliotecas front-end como React e Vue.js.
+- **Aprimorar Habilidades em Frameworks e Bibliotecas:** Continuar aprimorando minhas habilidades em frameworks e bibliotecas front-end como ReactJS e NextJS.
 - **Colaborar em Projetos Open Source:** Contribuir para projetos open source para ajudar a comunidade de desenvolvimento e ganhar experiência prática em diferentes tipos de projetos.
-- **Manter-me Atualizado com as Novas Tecnologias:** Estar sempre atualizado com as últimas tendências e tecnologias no desenvolvimento front-end, como PWA, e novas APIs do navegador.
+- **Manter-me Atualizado com as Novas Tecnologias:** Estar sempre atualizado com as últimas tendências e tecnologias no desenvolvimento front-end, como PWA, e novas APIs etc.
 - **Liderança e Mentoria:** Assumir papéis de liderança em projetos e ajudar a orientar novos desenvolvedores, compartilhando conhecimentos e boas práticas.
 - **Foco em Acessibilidade:** Priorizar a acessibilidade em todos os projetos para garantir que as aplicações sejam utilizáveis por pessoas com diferentes necessidades.
 
 ## 🎯 Objetivos específicos de Carreira
 
 - Assumir a liderança de um projeto front-end importante até o final de 2024.
-- Aprender e implementar animações avançadas usando Framer Motion.
+- Desenvolver uma aplicação Backend completa sozinho para aprofundar conhecimentos.
 
 Esses objetivos guiam meu desenvolvimento profissional e pessoal, ajudando-me a crescer continuamente na minha carreira como Desenvolvedor Front End.
 
