@@ -4,11 +4,11 @@
 
 ## 🛠️ Habilidades Técnicas
 
-- **Linguagens de Programação:** PHP, JavaScript, Typescript, C#, Python
-- **Desenvolvimento Web:** HTML5, CSS3, ReactJs, React Native, Node.js, Express, NestJS, Typescript, NextJS, TailwindCSS, Styled Components, Redux, ContextAPI, Cypress, Jest
-- **Banco de Dados:** MySQL, PostgreSQL, MongoDB, Firebase, Prisma
-- **DevOps:** Docker, Jenkins, AWS, Azure
-- **Ferramentas e Tecnologias:** Git, GitHub
+- **Linguagens de Programação:** PHP, JavaScript, Typescript, Python
+- **Desenvolvimento Web:** HTML5, CSS3, ReactJs, React Native, Node.js, Express, NestJS, Typescript, NextJS, TailwindCSS, Styled Components, Redux, ContextAPI, Cypress, Jest, Prisma
+- **Banco de Dados:** MySQL, PostgreSQL, MongoDB, Firebase
+- **DevOps:** Jenkins, AWS, Azure
+- **Ferramentas e Tecnologias:** Git, GitHub, Jira, Bitbucket
 - **Metodologias Ágeis:** Scrum, Kanban
 
 ## 📚 Educação
