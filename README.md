@@ -13,6 +13,8 @@
 
 ## 📚 Educação
 
+- **Rocketsear + SIRIUS** - MBA em Desenvolvimento Full Stack - 2024-2025
+
 - **UGB - Centro Universitário Geraldo Di Biase** - Sistemas de Informação - 2017-2020
   - Destaques: Pediu Peças - TCC Aprovado com indicação para investidores
 
