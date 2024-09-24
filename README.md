@@ -93,23 +93,10 @@
 
 - NestJS e Prisma
 
-## 🎯 Objetivos gerais de Carreira
+## 🎯 Objetivos de Carreira
 
-Como Desenvolvedor Front End, meus principais objetivos de carreira são:
-
-- **Desenvolver Interfaces de Usuário Inovadoras:** Criar interfaces de usuário modernas, intuitivas e acessíveis que proporcionem uma excelente experiência ao usuário.
-- **Aprimorar Habilidades em Frameworks e Bibliotecas:** Continuar aprimorando minhas habilidades em frameworks e bibliotecas front-end como ReactJS e NextJS.
-- **Colaborar em Projetos Open Source:** Contribuir para projetos open source para ajudar a comunidade de desenvolvimento e ganhar experiência prática em diferentes tipos de projetos.
-- **Manter-me Atualizado com as Novas Tecnologias:** Estar sempre atualizado com as últimas tendências e tecnologias no desenvolvimento front-end, como PWA, e novas APIs etc.
-- **Liderança e Mentoria:** Assumir papéis de liderança em projetos e ajudar a orientar novos desenvolvedores, compartilhando conhecimentos e boas práticas.
-- **Foco em Acessibilidade:** Priorizar a acessibilidade em todos os projetos para garantir que as aplicações sejam utilizáveis por pessoas com diferentes necessidades.
-
-## 🎯 Objetivos específicos de Carreira
-
-- Assumir a liderança de um projeto front-end importante até o final de 2024.
-- Desenvolver uma aplicação Backend completa sozinho para aprofundar conhecimentos.
-
-Esses objetivos guiam meu desenvolvimento profissional e pessoal, ajudando-me a crescer continuamente na minha carreira como Desenvolvedor Front End.
+- Liderar um projeto front-end até o final de 2024.
+- Desenvolver uma aplicação backend completa para aprofundar conhecimentos.
 
 ---
 
