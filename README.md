@@ -35,8 +35,12 @@
 
 ## 💼 Experiência Profissional
 
-- **Falconi** - Desenvolvedor Front End - 12/2023 - Até o momento
-  - Descrição: Participo do desenvolvimento do projeto de Árvore de Decisão, que trata toda sua complexidade com as tecnologias mais atuais no mercado front end, lidando com contextAPI, React 18 + Typescript, e Tailwind CSS
+- **Carsystem** - Desenvolvedor Front End - 06/2024 - Até o momento
+  - Descrição: Desenvolvimento da plataforma web de agendamento e gerenciamento de recursos, utilizando o que há de mais novo no mercado. 
+  - Tecnologias Utilizadas: NextJS, Zustand, TailwindCSS, Typescript, ReactJS 18
+
+- **D&D Group** - Desenvolvedor Front End - 11/2023 - 09/2024
+  - Descrição: Participei do desenvolvimento do projeto de Árvore de Decisão, que trata toda sua complexidade com as tecnologias mais atuais no mercado front end, lidando com contextAPI, React 18 + Typescript, e Tailwind CSS
   - Tecnologias Utilizadas: ReactJS, TailwindCSS, SCRUM, Typescript, ContextAPI
 
 - **Lingo For Me** - Desenvolvedor Front End Pleno - 03/2023 - 04/2024
