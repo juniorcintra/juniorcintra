@@ -11,6 +11,11 @@
 - **Ferramentas e Tecnologias:** Git, GitHub, Jira, Bitbucket
 - **Metodologias Ágeis:** Scrum, Kanban
 
+<div display="flex" align="center">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juniorcintra&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juniorcintra&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
