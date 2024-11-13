@@ -40,7 +40,7 @@
 
 ## 💼 Experiência Profissional
 
-- **Enge Software** - Desenvolvedor Full Stack Sênior - 10/2024 - Até o momento
+- **Enge Software** - Engenheiro de Software Sênior - 10/2024 - Até o momento
   - Descrição: Desenvolvimento de Sistemas web sob demanda.
   - Tecnologias Utilizadas: NextJS, Typescript, ReactJS 18, VueJs 3, Nuxt, PHP, Laravel
 
