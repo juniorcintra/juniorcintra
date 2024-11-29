@@ -44,7 +44,7 @@
   - Descrição: Desenvolvimento de Sistemas web sob demanda.
   - Tecnologias Utilizadas: NextJS, Typescript, ReactJS 18, VueJs 3, Nuxt, PHP, Laravel
 
-- **Carsystem** - Desenvolvedor Front End - 06/2024 - Até o momento - Freelance
+- **Carsystem** - Desenvolvedor Front End - 06/2024 - 11/2024 - Freelance
   - Descrição: Desenvolvimento da plataforma web de agendamento e gerenciamento de recursos, utilizando o que há de mais novo no mercado. 
   - Tecnologias Utilizadas: NextJS, Zustand, TailwindCSS, Typescript, ReactJS 18
 
