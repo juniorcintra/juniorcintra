@@ -41,7 +41,7 @@
 ## 💼 Experiência Profissional
 
 - **Enge Software** - Engenheiro de Software Sênior - 10/2024 - Até o momento
-  - Descrição: Desenvolvimento de Sistemas web sob demanda.
+  - Descrição: Desenvolvimento Full Stack de produtos digitais para órgãos públicos sob demanda. Atuando em clientes grandes como a ABDI (Agência Brasileira de Desenvolvimento Industrial). Utilizando tecnologias como: PHP + Laravel ou NodeJS + NestJS no backend, VueJS + NuxtJS ou React + NextJS no frontend.
   - Tecnologias Utilizadas: NextJS, Typescript, ReactJS 18, VueJs 3, Nuxt, PHP, Laravel
 
 - **Carsystem** - Desenvolvedor Front End - 06/2024 - 11/2024 - Freelance
