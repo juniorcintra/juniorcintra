@@ -56,7 +56,7 @@
   - Descrição: Atuei em todo o refactor do App em React Native, refazendo todas as telas com atualizacoes de bibliotecas, melhorias e implementacao de Redux para gerenciamento global. Assim como tambem coordenei todo o refactor da plataforma web em React JS. Atuando com as mesmas estruturas por conta do compartilhamento de codigo entre React JS e React Native. Assim unificando certas logicas em comum para ambas as aplicacoes e tornando mais facil todo o processo de correcoes e melhorias futuras. Projetos bem desafiadores por se tratar de uma empresa americana em funionamento global. Tendo que lidar com timezones diferentes pra tratativas de datas e horarios e traducoes tambem.
   - Tecnologias Utilizadas: ReactJS, Redux, React Native, SCRUM, Firebase, Styled Components, SASS
 
-- **Stoom** - Desenvolvedor Front End Pleno - 03/2022 - 07/2023
+- **Stoom** - Desenvolvedor Front End Pleno - 05/2022 - 07/2023
   - Descrição: Trabalhei no e-commerce de um atacadista, atuei com ReactJS e NextJS no site já em andamento e também em projetos novos como uma nova plataforma de gerenciamento do site. 
   - Tecnologias Utilizadas: Mobx, NextJS, ReactJS, SCRUM, SASS
 
@@ -91,26 +91,17 @@
   - Tecnologias Utilizadas: ReactJS, React Native, Redux, Styled Components, AdonisJS, MySQL
   - Repositórios: https://github.com/juniorcintra/ReactJS-TCC-PediuPecas-Dashboard - https://github.com/juniorcintra/ReactNative-TCC-PediuPecas
 
-- **Mestre Agenda**
-  - Descrição: Mestre Agenda é um sistema de agendamento feito para profissionais, oferecendo organização e eficiência para a gestão da sua agenda e o sucesso do seu negócio.
-  - Tecnologias Utilizadas: ReactJS, Styled Components, Redux, NodeJS, ExpressJS, MySQL
-  - Site: https://mestreagenda.com/
-
 ## 📫 Contato
 
 - **Email:** junior.cintra.developer@gmail.com
 - **LinkedIn:** [Sergio Cintra](https://www.linkedin.com/in/sergio-cintra-developer/)
 
 
-## 🌱 Atualmente Aprendendo
+## 🌱 Atualmente Aprendendo e Aprimorando
 
 - NestJS e Prisma
-
-## 🎯 Objetivos de Carreira
-
-- Liderar um projeto front-end até o final de 2024.
-- Desenvolver uma aplicação backend completa para aprofundar conhecimentos.
-
----
+- Laravel e PHP
+- Cron Jobs, Websocket
+- Java e Spring
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo se tiver alguma pergunta ou oportunidade de colaboração.
