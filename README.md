@@ -39,7 +39,6 @@
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="NextJs" width="30" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
 </div>
 
 ## Projeto DevFast
