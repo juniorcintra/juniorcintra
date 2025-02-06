@@ -43,7 +43,7 @@
 
 ## Projeto DevFast
 
-- [<img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCy9DdDXjlk_YLKG_r3ViXOg) Canal de Programação
+- [<img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCy9DdDXjlk_YLKG_r3ViXOg)
 
 ## 📚 Educação
 
