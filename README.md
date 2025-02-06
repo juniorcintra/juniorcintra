@@ -41,8 +41,8 @@
 ## 💼 Experiência Profissional
 
 - **Enge Software** - Engenheiro de Software Sênior - 10/2024 - Até o momento
-  - Descrição: Desenvolvimento Full Stack de produtos digitais para órgãos públicos sob demanda. Atuando em clientes grandes como a ABDI (Agência Brasileira de Desenvolvimento Industrial). Utilizando tecnologias como: PHP + Laravel ou NodeJS + NestJS no backend, VueJS + NuxtJS ou React + NextJS no frontend.
-  - Tecnologias Utilizadas: NextJS, Typescript, ReactJS 18, VueJs 3, Nuxt, PHP, Laravel
+  - Descrição: Desenvolvo produtos digitais Full Stack sob demanda para órgãos públicos, com foco na modernização de sistemas legados e integração de novas tecnologias. Atualmente, trabalho para a ABDI (Agência Brasileira de Desenvolvimento Industrial), atuando no redesenho de fluxos operacionais, o que resultou em uma melhoria de 30% na eficiência dos processos internos. Utilizo tecnologias como React, Node.js e PostgreSQL, aplicando práticas ágeis para entrega contínua. Esse projeto tem proporcionado aprendizado significativo na gestão de requisitos de sistemas governamentais e integração de APIs complexas.
+  - Tecnologias Utilizadas: Microsoft Windows · PHP · Laravel · React.js · React Hooks · Vue.js · Nuxt.js · Next.js · TypeScript · JavaScript · PostgreSQL · Docker · NestJS
 
 - **Carsystem** - Desenvolvedor Front End - 06/2024 - 11/2024 - Freelance
   - Descrição: Desenvolvimento da plataforma web de agendamento e gerenciamento de recursos, utilizando o que há de mais novo no mercado. 
