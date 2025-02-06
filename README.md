@@ -118,9 +118,9 @@
 
 ## 📫 Contato
 
-- <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> junior.cintra.developer@gmail.com
-- <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> [Sergio Cintra](https://www.linkedin.com/in/sergio-cintra-developer/)
-- <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> +55 24 99917-7551
+- [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](junior.cintra.developer@gmail.com)
+- [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sergio-cintra-developer/)
+- [<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](+55 24 99917-7551)
 
 ## 🌱 Atualmente Aprendendo e Aprimorando
 
