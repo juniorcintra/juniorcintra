@@ -57,7 +57,7 @@
 
 - **Enge Software** - FullStack Developer Sênior - 10/2024 - 02/2025
 
-  - **Descrição**: Desenvolvo produtos digitais Full Stack sob demanda para órgãos públicos, com foco na modernização de sistemas legados e integração de novas tecnologias. Atualmente, trabalho para a ABDI (Agência Brasileira de Desenvolvimento Industrial), atuando no redesenho de fluxos operacionais, o que resultou em uma melhoria de 30% na eficiência dos processos internos. Utilizo tecnologias como React, Node.js e PostgreSQL, aplicando práticas ágeis para entrega contínua. Esse projeto tem proporcionado aprendizado significativo na gestão de requisitos de sistemas governamentais e integração de APIs complexas.
+  - **Descrição**: Desenvolvi produtos digitais Full Stack sob demanda para órgãos públicos, com foco na modernização de sistemas legados e integração de novas tecnologias. Lá, trabalhei para o cliente ABDI (Agência Brasileira de Desenvolvimento Industrial), atuando no redesenho de fluxos operacionais, o que resultou em uma melhoria de 30% na eficiência dos processos internos. Utilizei tecnologias como React, Next.js, Laravel e PostgreSQL, aplicando práticas ágeis para entrega contínua. Esse projeto tem proporcionado aprendizado significativo na gestão de requisitos de sistemas governamentais e integração de APIs complexas.
   - **Tecnologias Utilizadas**: PHP · Laravel · React.js · React Hooks · Vue.js · Nuxt.js · Next.js · TypeScript · JavaScript · PostgreSQL · Docker · NestJS
 
 - **Carsystem** - Desenvolvedor Front End Sênior - 06/2024 - 11/2024 - Freelance
