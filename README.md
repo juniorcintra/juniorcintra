@@ -55,6 +55,16 @@
 
 ## 💼 Experiência Profissional
 
+- **Enge Software** - Tech Lead - 04/2025 - Atualmente
+
+  - **Descrição**: Atuo como líder técnico no frontend do e-commerce da Mistral, maior referência em vinhos no Brasil e principal cliente da empresa. Sou responsável pela arquitetura da aplicação, padronização de código, revisão de PRs, gestão técnica do time e distribuição estratégica de tarefas. Com uma stack moderna baseada em Next.js 15, React 19, Tailwind CSS, Shadcn UI e React Query, implementamos soluções escaláveis, performáticas e alinhadas às melhores práticas de Developer Experience (DX), acessibilidade e SEO técnico. Além da liderança, contribuo ativamente com o desenvolvimento de features complexas e refatorações estruturais. Nosso trabalho gerou ganhos expressivos:
+ • +100% de melhoria na performance geral do site (medida por métricas como LCP, CLS e TTI)
+ • Otimização significativa na indexação orgânica do Google, refletindo em melhor ranqueamento e visibilidade
+ • Experiência do usuário aprimorada em todas as etapas da jornada, com navegação mais fluida e consistente
+ • Padronização de código que elevou a produtividade e coesão da equipe de frontend
+Lidero com foco em excelência técnica, colaboração contínua e evolução constante do produto e do time.
+  - **Tecnologias Utilizadas**: PHP · Laravel · React.js · React Hooks · Next.js · TypeScript · TailwindCSS · JavaScript · Docker
+
 - **Enge Software** - FullStack Developer Sênior - 10/2024 - 02/2025
 
   - **Descrição**: Desenvolvi produtos digitais Full Stack sob demanda para órgãos públicos, com foco na modernização de sistemas legados e integração de novas tecnologias. Lá, trabalhei para o cliente ABDI (Agência Brasileira de Desenvolvimento Industrial), atuando no redesenho de fluxos operacionais, o que resultou em uma melhoria de 30% na eficiência dos processos internos. Utilizei tecnologias como React, Next.js, Laravel e PostgreSQL, aplicando práticas ágeis para entrega contínua. Esse projeto tem proporcionado aprendizado significativo na gestão de requisitos de sistemas governamentais e integração de APIs complexas.
