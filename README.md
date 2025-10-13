@@ -55,7 +55,7 @@
 
 ## 💼 Experiência Profissional
 
-- **Webeleven** - Tech Lead - 04/2025 - 10/2025
+- **Webeleven** - Tech Lead - 03/2025 - 10/2025
 
   - **Descrição**: Atuo como líder técnico no frontend do e-commerce da Mistral, maior referência em vinhos no Brasil e principal cliente da empresa. Sou responsável pela arquitetura da aplicação, padronização de código, revisão de PRs, gestão técnica do time e distribuição estratégica de tarefas. Com uma stack moderna baseada em Next.js 15, React 19, Tailwind CSS, Shadcn UI e React Query, implementamos soluções escaláveis, performáticas e alinhadas às melhores práticas de Developer Experience (DX), acessibilidade e SEO técnico. Além da liderança, contribuo ativamente com o desenvolvimento de features complexas e refatorações estruturais. Nosso trabalho gerou ganhos expressivos:
  • +100% de melhoria na performance geral do site (medida por métricas como LCP, CLS e TTI)
