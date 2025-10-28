@@ -57,12 +57,12 @@
 
 - **Webeleven** - Tech Lead - 03/2025 - 10/2025
 
-  - **Descrição**: Atuo como líder técnico no frontend do e-commerce da Mistral, maior referência em vinhos no Brasil e principal cliente da empresa. Sou responsável pela arquitetura da aplicação, padronização de código, revisão de PRs, gestão técnica do time e distribuição estratégica de tarefas. Com uma stack moderna baseada em Next.js 15, React 19, Tailwind CSS, Shadcn UI e React Query, implementamos soluções escaláveis, performáticas e alinhadas às melhores práticas de Developer Experience (DX), acessibilidade e SEO técnico. Além da liderança, contribuo ativamente com o desenvolvimento de features complexas e refatorações estruturais. Nosso trabalho gerou ganhos expressivos:
+  - **Descrição**: Atuei como líder técnico no frontend do e-commerce da Mistral, maior referência em vinhos no Brasil e principal cliente da empresa. Fui responsável pela arquitetura da aplicação, padronização de código, revisão de PRs, gestão técnica do time e distribuição estratégica de tarefas. Com uma stack moderna baseada em Next.js 15, React 19, Tailwind CSS, Shadcn UI e React Query, implementamos soluções escaláveis, performáticas e alinhadas às melhores práticas de Developer Experience (DX), acessibilidade e SEO técnico. Além da liderança, contribuí ativamente com o desenvolvimento de features complexas e refatorações estruturais. Nosso trabalho gerou ganhos expressivos:
  • +100% de melhoria na performance geral do site (medida por métricas como LCP, CLS e TTI)
  • Otimização significativa na indexação orgânica do Google, refletindo em melhor ranqueamento e visibilidade
  • Experiência do usuário aprimorada em todas as etapas da jornada, com navegação mais fluida e consistente
  • Padronização de código que elevou a produtividade e coesão da equipe de frontend
-Lidero com foco em excelência técnica, colaboração contínua e evolução constante do produto e do time.
+Liderei com foco em excelência técnica, colaboração contínua e evolução constante do produto e do time.
   - **Tecnologias Utilizadas**: PHP · Laravel · React.js · React Hooks · Next.js · TypeScript · TailwindCSS · JavaScript · Docker
 
 - **Enge Software** - FullStack Developer Sênior - 10/2024 - 02/2025
