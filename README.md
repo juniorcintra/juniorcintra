@@ -55,6 +55,11 @@
 
 ## 💼 Experiência Profissional
 
+- **Qintess** - Engenheiro de Software - 11/2025 - 04/2026
+
+  - **Descrição**: Desenvolvi aplicações Full Stack críticas para a Caixa Econômica Federal utilizando Java com Quarkus no backend e Next.js/TypeScript no frontend, atuando na modernização de sistemas internos e otimização de processos utilizados diariamente por milhares de usuários. Participei da criação e manutenção de soluções escaláveis, com foco em performance, segurança e alta disponibilidade, contribuindo para reduzir falhas operacionais e melhorar a eficiência dos sistemas. Trabalhei em ambiente ágil, colaborando com equipes multidisciplinares no desenvolvimento de integrações, novas funcionalidades e melhorias contínuas. Durante o projeto, aprofundei conhecimentos em arquitetura de software, desenvolvimento de aplicações corporativas de grande porte e boas práticas de engenharia de software.
+  - **Tecnologias Utilizadas**: Java · Quarkus · React.js · React Hooks · Next.js · TypeScript · TailwindCSS · JavaScript · Docker
+
 - **Webeleven** - Tech Lead - 03/2025 - 10/2025
 
   - **Descrição**: Atuei como líder técnico no frontend do e-commerce da Mistral, maior referência em vinhos no Brasil e principal cliente da empresa. Fui responsável pela arquitetura da aplicação, padronização de código, revisão de PRs, gestão técnica do time e distribuição estratégica de tarefas. Com uma stack moderna baseada em Next.js 15, React 19, Tailwind CSS, Shadcn UI e React Query, implementamos soluções escaláveis, performáticas e alinhadas às melhores práticas de Developer Experience (DX), acessibilidade e SEO técnico. Além da liderança, contribuí ativamente com o desenvolvimento de features complexas e refatorações estruturais. Nosso trabalho gerou ganhos expressivos:
