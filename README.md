@@ -13,7 +13,7 @@ Tech Lead especializado em arquitetura frontend e desenvolvimento Full Stack, co
 **Experiência:** Frontend/Backend com foco em escalabilidade, performance e SEO técnico
 **Formação:** MBA Full-stack Rocketseat + Bacharelado em Sistemas de Informação
 
-Atualmente como Engenheiro de Software na Qintess, desenvolvendo aplicações para Caixa Econômica Federal com Java Quarkus e Next.js.
+Atualmente como Engenheiro de Software na Spassu, desenvolvendo aplicações para Caixa Econômica Federal com Java Quarkus e Next.js.
 
 💬 **Vamos conversar sobre seu próximo projeto? Manda uma mensagem!**
 
@@ -70,6 +70,11 @@ Atualmente como Engenheiro de Software na Qintess, desenvolvendo aplicações pa
 - **Colégio ICT** - Técnico em Informática - 2013-2015
 
 ## 💼 Experiência Profissional
+
+- **Spassu** - Engenheiro de Software - 05/2026 - Atualmente
+
+  - **Descrição**: Desenvolvo aplicações Full Stack críticas para a Caixa Econômica Federal utilizando Java com Quarkus no backend e Next.js/TypeScript no frontend, atuando na modernização de sistemas internos e otimização de processos utilizados diariamente por milhares de usuários. Participo da criação e manutenção de soluções escaláveis, com foco em performance, segurança e alta disponibilidade, contribuindo para reduzir falhas operacionais e melhorar a eficiência dos sistemas. Trabalho em ambiente ágil, colaborando com equipes multidisciplinares no desenvolvimento de integrações, novas funcionalidades e melhorias contínuas. Durante o projeto, aprofundo conhecimentos em arquitetura de software, desenvolvimento de aplicações corporativas de grande porte e boas práticas de engenharia de software.
+  - **Tecnologias Utilizadas**: Java · Quarkus · React.js · React Hooks · Next.js · TypeScript · TailwindCSS · JavaScript · Docker
 
 - **Qintess** - Engenheiro de Software - 11/2025 - 04/2026
 
