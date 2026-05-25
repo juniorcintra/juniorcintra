@@ -1,15 +1,31 @@
 ## 👨‍💻 Sergio Paulo Vianna Cintra Junior
 
-### Desenvolvedor Full Stack com mais de 6 anos de experiência, atuando à frente de projetos em diversos setores, incluindo financeiras, imobiliário, e-commerce, agências de publicidade, escolas de idiomas e seguradoras. Ao longo da minha trajetória, trabalhei no desenvolvimento de novas aplicações utilizando uma ampla gama de tecnologias como PHP, Java, NodeJS, JavaScript, TypeScript, React Native, React.js, Next.js, NestJS, TailwindCSS, além de gerenciamento de estado com Zustand, Redux e ContextAPI. Sempre busco ser uma pessoa descontraída, mantendo o equilíbrio entre seriedade e compromisso no ambiente de trabalho, com foco na entrega de soluções eficazes e inovadoras.
+### Sobre mim
+
+Tech Lead especializado em arquitetura frontend e desenvolvimento Full Stack, com MBA e experiência liderando projetos de alto impacto para empresas de referência no Brasil.
+
+🚀 **Resultados comprovados:**
+• Melhorei performance de e-commerce em +100% (LCP, CLS, TTI) na Webeleven com Next.js 15 e React 19
+• Reduzi tempo de agendamento em 40% com TypeScript e Next.js em projeto freelance
+• Aumentei eficiência de processos internos da ABDI em 30% modernizando sistemas legados
+
+**Stack atual:** Next.js, React, TypeScript, TailwindCSS, Java Spring Boot, Quarkus, Node.js, PostgreSQL
+**Experiência:** Frontend/Backend com foco em escalabilidade, performance e SEO técnico
+**Formação:** MBA Full-stack Rocketseat + Bacharelado em Sistemas de Informação
+
+Atualmente como Engenheiro de Software na Qintess, desenvolvendo aplicações para Caixa Econômica Federal com Java Quarkus e Next.js.
+
+💬 **Vamos conversar sobre seu próximo projeto? Manda uma mensagem!**
 
 ## 🛠️ Habilidades Técnicas
 
 - **Linguagens de Programação:** PHP, JavaScript, Typescript, Python, Java
-- **Desenvolvimento Web:** HTML5, CSS3, ReactJs, React Native, Node.js, Express, NestJS, Typescript, NextJS, TailwindCSS, Styled Components, Redux, ContextAPI, Zustand, Cypress, Jest
+- **Desenvolvimento Web:** HTML5, CSS3, ReactJs, React Native, Node.js, Express, NestJS, Typescript, NextJS, TailwindCSS, Styled Components, Redux, ContextAPI, Zustand
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB, Firebase, Prisma
 - **DevOps:** Jenkins, AWS, Azure
 - **Ferramentas e Tecnologias:** Git, GitHub, Jira, Bitbucket, Figma, Postman
 - **Metodologias Ágeis:** Scrum, Kanban
+- **Testes:** Jest, Cypress
 
 <div display="flex" align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juniorcintra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
