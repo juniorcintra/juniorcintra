@@ -9,9 +9,9 @@ Tech Lead especializado em arquitetura frontend e desenvolvimento Full Stack, co
 • Reduzi tempo de agendamento em 40% com TypeScript e Next.js em projeto freelance
 • Aumentei eficiência de processos internos da ABDI em 30% modernizando sistemas legados
 
-**Stack atual:** Next.js, React, TypeScript, TailwindCSS, Java Spring Boot, Quarkus, Node.js, PostgreSQL
-**Experiência:** Frontend/Backend com foco em escalabilidade, performance e SEO técnico
-**Formação:** MBA Full-stack Rocketseat + Bacharelado em Sistemas de Informação
+- **Stack atual:** Next.js, React, TypeScript, TailwindCSS, Java Spring Boot, Quarkus, Node.js, PostgreSQL
+- **Experiência:** Frontend/Backend com foco em escalabilidade, performance e SEO técnico
+- **Formação:** MBA Full-stack Rocketseat + Bacharelado em Sistemas de Informação
 
 Atualmente como Engenheiro de Software na Spassu, desenvolvendo aplicações para Caixa Econômica Federal com Java Quarkus e Next.js.
 
