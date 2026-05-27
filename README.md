@@ -4,14 +4,14 @@
 
 Tech Lead especializado em arquitetura frontend e desenvolvimento Full Stack, com MBA e experiência liderando projetos de alto impacto para empresas de referência no Brasil.
 
-🚀 **Resultados comprovados:**
-• Melhorei performance de e-commerce em +100% (LCP, CLS, TTI) na Webeleven com Next.js 15 e React 19
-• Reduzi tempo de agendamento em 40% com TypeScript e Next.js em projeto freelance
-• Aumentei eficiência de processos internos da ABDI em 30% modernizando sistemas legados
+🚀 **Resultados comprovados:** <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;↳ +100% de performance em e-commerce (LCP, CLS, TTI) na Webeleven com Next.js 15 e React 19 <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;↳ -40% no tempo de agendamento com TypeScript e Next.js em projeto freelance <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;↳ +30% de eficiência operacional na ABDI modernizando sistemas legados <br>
 
-- **Stack atual:** Next.js, React, TypeScript, TailwindCSS, Java Spring Boot, Quarkus, Node.js, PostgreSQL
-- **Experiência:** Frontend/Backend com foco em escalabilidade, performance e SEO técnico
-- **Formação:** MBA Full-stack Rocketseat + Bacharelado em Sistemas de Informação
+**Stack atual:** Next.js, React, TypeScript, TailwindCSS, Java Spring Boot, Quarkus, Node.js, PostgreSQL <br>
+**Experiência:** Frontend/Backend com foco em escalabilidade, performance e SEO técnico <br>
+**Formação:** MBA Full-stack Rocketseat + Bacharelado em Sistemas de Informação <br>
 
 Atualmente como Engenheiro de Software na Spassu, desenvolvendo aplicações para Caixa Econômica Federal com Java Quarkus e Next.js.
 
