@@ -9,7 +9,7 @@ Tech Lead especializado em arquitetura frontend e desenvolvimento Full Stack, co
   &nbsp;&nbsp;&nbsp;&nbsp;↳ -40% no tempo de agendamento com TypeScript e Next.js em projeto freelance <br>
   &nbsp;&nbsp;&nbsp;&nbsp;↳ +30% de eficiência operacional na ABDI modernizando sistemas legados <br>
 
-**Stack atual:** Next.js, React, TypeScript, TailwindCSS, Java Spring Boot, Quarkus, Node.js, PostgreSQL <br>
+**Stack atual:** Next.js, React, TypeScript, TailwindCSS, Java Spring Boot, Quarkus, Node.js, PostgreSQL, Python, FastAPI <br>
 **Experiência:** Frontend/Backend com foco em escalabilidade, performance e SEO técnico <br>
 **Formação:** MBA Full-stack Rocketseat + Bacharelado em Sistemas de Informação <br>
 
@@ -20,7 +20,7 @@ Atualmente como Engenheiro de Software na Spassu, desenvolvendo aplicações par
 ## 🛠️ Habilidades Técnicas
 
 - **Linguagens de Programação:** PHP, JavaScript, Typescript, Python, Java
-- **Desenvolvimento Web:** HTML5, CSS3, ReactJs, React Native, Node.js, Express, NestJS, Typescript, NextJS, TailwindCSS, Styled Components, Redux, ContextAPI, Zustand
+- **Desenvolvimento Web:** HTML5, CSS3, ReactJs, React Native, Node.js, Express, NestJS, Typescript, NextJS, TailwindCSS, Styled Components, Redux, ContextAPI, Zustand, FastAPI
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB, Firebase, Prisma
 - **DevOps:** Jenkins, AWS, Azure
 - **Ferramentas e Tecnologias:** Git, GitHub, Jira, Bitbucket, Figma, Postman
