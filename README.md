@@ -2,20 +2,27 @@
 
 ### Sobre mim
 
-Tech Lead especializado em arquitetura frontend e desenvolvimento Full Stack, com MBA e experiência liderando projetos de alto impacto para empresas de referência no Brasil.
+Transformar problemas complexos em soluções simples, escaláveis e de alto impacto é o que mais me motiva como engenheiro de software.
 
-🚀 **Resultados comprovados:** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;↳ +100% de performance em e-commerce (LCP, CLS, TTI) na Webeleven com Next.js 15 e React 19 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;↳ -40% no tempo de agendamento com TypeScript e Next.js em projeto freelance <br>
-&nbsp;&nbsp;&nbsp;&nbsp;↳ +30% de eficiência operacional na ABDI modernizando sistemas legados <br>
+Há mais de 6 anos desenvolvo aplicações web que atendem milhares de usuários, participando de todas as etapas do ciclo de desenvolvimento: arquitetura, implementação, otimização de performance, integração entre sistemas e evolução contínua de produtos.
 
-**Stack atual:** Next.js, React, TypeScript, TailwindCSS, Java Spring Boot, Quarkus, Node.js, PostgreSQL, Python, FastAPI <br>
-**Experiência:** Frontend/Backend com foco em escalabilidade, performance e SEO técnico <br>
-**Formação:** MBA Full-stack Rocketseat + Bacharelado em Sistemas de Informação <br>
+Atuo como Full Stack Engineer com foco em React, Next.js, Node.js, TypeScript e Java, desenvolvendo aplicações modernas, performáticas e preparadas para crescer. Tenho experiência com arquitetura frontend, APIs REST, bancos de dados relacionais, SEO técnico, Core Web Vitals, microsserviços e ambientes em nuvem.
 
-Atualmente como Engenheiro de Software na Spassu, desenvolvendo aplicações para Caixa Econômica Federal com Java Quarkus e Next.js.
+Ao longo da minha carreira tive a oportunidade de trabalhar em projetos para empresas privadas e órgãos públicos, sempre buscando unir qualidade técnica e impacto para o negócio.
 
-💬 **Vamos conversar sobre seu próximo projeto? Manda uma mensagem!**
+Alguns resultados que marcaram minha trajetória:
+
+- 🚀 Mais de 100% de melhoria nos indicadores de performance (LCP, CLS e TTI) de um grande e-commerce utilizando Next.js 15 e React 19.
+
+- 📈 Redução de aproximadamente 40% no tempo de execução de processos críticos em uma plataforma de agendamento, melhorando a experiência dos usuários e a eficiência operacional.
+
+- ⚙️ Modernização de sistemas legados na Agência Brasileira de Desenvolvimento Industrial (ABDI), contribuindo para um aumento de cerca de 30% na eficiência dos processos internos.
+
+Atualmente atuo como Software Engineer na Qintess, desenvolvendo soluções para a Caixa Econômica Federal com Java Quarkus, Next.js e TypeScript, participando da evolução de aplicações críticas utilizadas em larga escala.
+
+Além do desenvolvimento de software, gosto de compartilhar conhecimento através do DevFast, produzindo conteúdo sobre programação, arquitetura de software, inteligência artificial e produtividade para desenvolvedores.
+
+Acredito que tecnologia só gera valor quando resolve problemas reais. Por isso, busco construir produtos que sejam rápidos, escaláveis, fáceis de manter e que entreguem uma excelente experiência para quem os utiliza.
 
 ## 🛠️ Habilidades Técnicas
 
