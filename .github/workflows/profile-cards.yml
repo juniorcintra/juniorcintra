@@ -1,0 +1,26 @@
+# Save as .github/workflows/profile-cards.yml in the juniorcintra/juniorcintra repo.
+# Generates the GitHub stats SVGs inside the repo itself (no external service at view time)
+# and refreshes them every day.
+name: Profile summary cards
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # GITHUB_TOKEN only sees public repos. To count private repos/commits,
+          # create a classic PAT (scopes: repo, read:user), save it as the secret
+          # PROFILE_CARDS_TOKEN and use: ${{ secrets.PROFILE_CARDS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
