@@ -104,7 +104,7 @@ Full details on [LinkedIn](https://www.linkedin.com/in/sergio-cintra-developer/)
  
 ## 📊 GitHub stats
  
-<div align="center">
+<div display="flex" align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juniorcintra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juniorcintra&layout=compact&langs_count=4&theme=dark"/>
 </div>
